@@ -1,0 +1,17 @@
+{
+    "CN": "localhost-CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+    {
+      "C": "US",
+      "L": "SC",
+      "O": "BC",
+      "ST": "Charleston",
+      "OU": "localhost"
+    }
+    ]
+}
+
